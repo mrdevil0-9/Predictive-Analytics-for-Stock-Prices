@@ -62,7 +62,7 @@ def predict_stock_price(stock_data):
 
     return np.mean(predicted_price)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     ticker = input("Enter stock tickers (e.g., ZOMATO for NSE or 543638 for BSE): ")
     market = input("Enter the market (NSE or BSE): ")
     
