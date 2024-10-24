@@ -1,5 +1,5 @@
 # Predictive-Analytics-for-Stock-Prices
- This title reflects the focus on stock price prediction and sentiment analysis
+ This reflects the focus on stock price prediction and sentiment analysis
 
  To run your project, you need to install the following Python libraries:
 
